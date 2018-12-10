@@ -2,6 +2,17 @@
 Catatan Kuliah  Semester Ganjil 2018/2019
 
 
+## Tugas hari ini (10 Des 2018) : 
+
+Buatlah sebuah artikel (content type *article* ) yang berisi tentang cara menampilkan video-youtube dari halaman web-site yang dibangun dengan menggunakan drupal.
+
+Buatlah satu contoh menampilkan video tutorial berikut dari web-site drupal.
+[Step-1](https://www.youtube.com/watch?v=fxd1X3bBGww&list=PLzW5qZqWSqtWHtoxMAXVdvY1fE7WH8RCQ)
+
+
+
+
+
 ## Daftar link tutorial Drupal7 + Bootstrap
 
 1. [Step-1](https://www.youtube.com/watch?v=fxd1X3bBGww&list=PLzW5qZqWSqtWHtoxMAXVdvY1fE7WH8RCQ)
