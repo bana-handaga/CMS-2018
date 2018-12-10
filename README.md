@@ -1,6 +1,9 @@
 # CMS-2018
 Catatan Kuliah  Semester Ganjil 2018/2019
 
+## Contoh satu website dengan Drupal 7  [http://icolae.ums.ac.id/2018/](http://icolae.ums.ac.id/2018/)
+
+
 
 ## Tugas hari ini (10 Des 2018) : 
 
