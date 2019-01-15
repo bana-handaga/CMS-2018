@@ -1,5 +1,15 @@
 # CMS-2018
-Catatan Kuliah  Semester Ganjil 2018/2019
+
+## Bahan UAS Semester Ganjil 2018/2019
+
+*open cheatsheet 1 lembar A4*
+
+1. Fitur dan instalasi CMS Drupal
+2. User Management dengan Drupal
+3. Posting content dalam drupal
+
+
+
 
 ## Contoh satu website dengan Drupal 7  [http://icolae.ums.ac.id/2018/](http://icolae.ums.ac.id/2018/)
 
